@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="#ffffff">
+
+    <RadioGroup
+        android:id="@+id/radioGroupScale"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp">
+        <RadioButton
+            android:id="@+id/radioBtnCelsius"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Celsius"
+            android:checked="true"
+            android:textSize="18dp"
+            android:padding="10dp"/>
+        <RadioButton
+            android:id="@+id/radioBtnFahrenheit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fahrenheit"
+            android:textSize="18dp"
+            android:padding="10dp"/>
+    </RadioGroup>
+
+</LinearLayout>
