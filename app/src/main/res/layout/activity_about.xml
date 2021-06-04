@@ -44,18 +44,7 @@
         android:fontFamily="sans-serif"
         android:layout_margin="10dp"
         />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="PH 3037"
-        android:textAlignment="center"
-        android:gravity="center_horizontal"
-        android:textSize="30dp"
-        android:textColor="#000000"
-        android:fontFamily="sans-serif"
-        android:layout_marginTop="20dp"
-        android:textStyle="bold"
-        />
+ 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -63,40 +52,6 @@
         android:textAlignment="center"
         android:gravity="center_horizontal"
         android:textSize="20dp"
-        android:textColor="#000000"
-        android:fontFamily="sans-serif"
-        android:textStyle="bold"
-        />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Chamindu Senanayake"
-        android:textAlignment="center"
-        android:gravity="center_horizontal"
-        android:textSize="18dp"
-        android:textColor="#000000"
-        android:fontFamily="sans-serif"
-        android:layout_marginTop="20dp"
-        android:textStyle="bold"
-        />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Index : S14018"
-        android:textAlignment="center"
-        android:gravity="center_horizontal"
-        android:textSize="18dp"
-        android:textColor="#000000"
-        android:fontFamily="sans-serif"
-        android:textStyle="bold"
-        />
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Reg.no : 2017s16319"
-        android:textAlignment="center"
-        android:gravity="center_horizontal"
-        android:textSize="18dp"
         android:textColor="#000000"
         android:fontFamily="sans-serif"
         android:textStyle="bold"
